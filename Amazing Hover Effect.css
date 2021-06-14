@@ -1,12 +1,40 @@
 body {
   background-color: #ffe88c;
 }
-div {
+.div1 {
   position: absolute;
-  top: 50%;
+  top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+.div2 {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.div3{
+
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  
+}
+
+.div4{
+
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+
+
+
 .btn {
   background-color: transparent;
   position: relative;
